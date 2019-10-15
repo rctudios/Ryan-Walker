@@ -67,6 +67,7 @@ iframe{
 }
 #links{
 	transition: transform .25s;
+	color:white;
 }
 #links:hover{
 	transform: scale(1.1);
@@ -82,6 +83,4 @@ iframe{
 	text-align: center;
 	font: Time New Romans;
 }
-a{
-	color: white;
-}
+
