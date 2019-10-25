@@ -44,3 +44,15 @@ header{
   text-align: center;
   font: Time New Romans;
 }
+#all{
+  background-color:#fc6f03;
+  width:75%;
+  height:25%;
+  color:white;
+  padding: 0.5%;
+  margin: 2.5%;
+  border-radius: 5%;
+  text-align: center;
+  font: Time New Romans;
+  padding-bottom: 2.5%;
+}
